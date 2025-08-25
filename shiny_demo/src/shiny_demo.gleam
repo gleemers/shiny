@@ -111,7 +111,7 @@ fn component_showcase() -> Nil {
     "Thank You!",
     [
       "You've seen all the advanced features!",
-      "Maybe you'll build an amazing TUI apps that shine!",
+      "Now build an amazing TUI app that shines!",
       "Have a good day!",
     ],
     center,
