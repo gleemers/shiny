@@ -15,7 +15,8 @@ pub fn main() -> Nil {
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/shiny>.
+Further documentation can be found at <https://hexdocs.pm/shiny> and
+<https://hexdocs.pm/shiny/shiny.html>.
 
 ## Development
 
