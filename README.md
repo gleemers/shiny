@@ -1,25 +1,25 @@
-# shine
+# shiny
 
-[![Package Version](https://img.shields.io/hexpm/v/shine)](https://hex.pm/packages/shine)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/shine/)
+[![Package Version](https://img.shields.io/hexpm/v/shiny)](https://hex.pm/packages/shiny)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/shiny/)
 
 ```sh
-gleam add shine@1
+gleam add shiny@1
 ```
 
 ```gleam
-import shine
+import shiny
 
 pub fn main() -> Nil {
   // TODO: An example of the project in use
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/shine>.
+Further documentation can be found at <https://hexdocs.pm/shiny>.
 
 ## Development
 
 ```sh
-cd shine_demo
+cd shiny_demo
 gleam run   # Run the demo
 ```
