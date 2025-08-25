@@ -1,5 +1,5 @@
 name = "shiny"
-version = "1.0.3"
+version = "1.0.4"
 description = "A TUI library for Gleam"
 licences = ["MIT"]
 repository = { type = "github", user = "gleemers", repo = "shiny" }
