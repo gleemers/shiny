@@ -1,0 +1,9 @@
+name = "shiny_demo"
+version = "1.0.0"
+
+[dependencies]
+gleam_stdlib = ">= 0.44.0 and < 2.0.0"
+shiny = { path = "../" }
+
+[dev-dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"
