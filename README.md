@@ -7,13 +7,7 @@
 gleam add shiny@1
 ```
 
-```gleam
-import shiny
-
-pub fn main() -> Nil {
-  // TODO: An example of the project in use
-}
-```
+See [shiny_demo.gleam](shiny_demo/src/shiny_demo.gleam) for an example project
 
 Further documentation can be found at <https://hexdocs.pm/shiny> and
 <https://hexdocs.pm/shiny/shiny.html>.
